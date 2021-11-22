@@ -1,0 +1,5 @@
+{
+  "name": "rodux",
+  "version": "1.0.0",
+  "description": "A state management library for Roblox Lua inspired by Redux"
+}
